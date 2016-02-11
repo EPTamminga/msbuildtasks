@@ -1,7 +1,12 @@
 [Bb]in
 [Oo]bj
+
+# User-specific files
 *.suo
 *.user
+*.sln.docstates
+*.sln.GhostDoc.xml
+
 *.[Cc]ache
 *[Rr]esharper*
 Bootstrap
